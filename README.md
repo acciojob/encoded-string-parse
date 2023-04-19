@@ -6,7 +6,7 @@ Create a function `parseCode` which takes in an encoded string and returns an ob
 
 The input string will always be in the same format: the first name, last name, and id will be separated by zeros.
 
-Examples
+## Examples
 
 ```
 parseCode("John000Doe000123");
